@@ -1,0 +1,18 @@
+[
+    {
+        "context": "Workspace",
+        "bindings": {}
+    },
+    {
+        "context": "Editor",
+        "bindings": {
+            "alt-i": "terminal_panel::ToggleFocus"
+        }
+    },
+    {
+        "context": "Terminal",
+        "bindings": {
+            "alt-i": "terminal_panel::ToggleFocus"
+        }
+    }
+]
