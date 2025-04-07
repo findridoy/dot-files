@@ -14,5 +14,12 @@
         "bindings": {
             "alt-i": "terminal_panel::ToggleFocus"
         }
+    },
+    {
+        "context": "Editor && (vim_mode == insert)",
+        "bindings": {
+          "alt-h": "editor::MoveLeft",
+          "alt-l": "editor::MoveRight"
+        }
     }
 ]
