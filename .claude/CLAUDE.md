@@ -1,0 +1,1 @@
+If you detect changes made to your previous work between sessions, respect and follow those changes. When you see style changes or pattern changes in the code, follow and respect that new pattern. Do not revert to your original approach - the user made those changes intentionally.
